@@ -1,0 +1,36 @@
+.cards {
+    width: 60%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    font-family: 'Yomogi', cursive;
+    }
+    
+    
+    .btnNext {
+        width: 60%;
+        display: flex;
+        justify-content: space-between;
+        margin: 20px auto;
+    }
+    
+    h3 {
+        margin-top: 20px;
+        text-align: center;
+        font-family: 'Rock Salt', cursive;
+    }
+    
+    .btn {
+        font-family: 'Yomogi', cursive;
+    }
+
+    .btn:focus {
+        
+        box-shadow: none;
+    }
+
+    .dontShow {
+        display: none;
+    }

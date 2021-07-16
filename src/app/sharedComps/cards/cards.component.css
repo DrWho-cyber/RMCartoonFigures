@@ -1,0 +1,13 @@
+.card {
+    margin-top: 10px;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.card h6 {
+    margin-bottom: 10px;
+}
+
+.btn:focus{
+    box-shadow: none;
+}
