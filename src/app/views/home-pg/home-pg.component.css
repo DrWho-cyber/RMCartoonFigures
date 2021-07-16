@@ -1,5 +1,5 @@
 .cards {
-    width: 50%;
+    width: 55%;
     margin: auto;
     display: flex;
     flex-wrap: wrap;
@@ -10,7 +10,7 @@
     
     
     .btnNext {
-        width: 60%;
+        width: 55%;
         display: flex;
         justify-content: space-between;
         margin: 20px auto;
